@@ -16,6 +16,12 @@ To start off, AT&T would like you to use the folowing dataset:
 
 [Dowload the Dataset](https://full-stack-bigdata-datasets.s3.eu-west-3.amazonaws.com/Deep+Learning/project/spam.csv)
 
+## Deliverable 📬
+To complete this project, your team should:
+
+* Write a notebook that runs preprocessing and trains one or more deep learning models in order to predict the spam or ham nature of the sms
+* State the achieved performance clearly
+
 # Environnement local
 
 ## Prérequis
